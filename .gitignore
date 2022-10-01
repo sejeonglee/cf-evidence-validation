@@ -1,0 +1,9 @@
+.vscode
+
+evidence_data
+query_images
+support_images
+
+log.txt
+
+*.pyc
